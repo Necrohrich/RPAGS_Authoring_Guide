@@ -21,7 +21,7 @@ gh_edit_link: true
 gh_edit_link_text: "Редактировать страницу"
 gh_edit_repository: "https://github.com/Necrohrich/RPAGS_Authoring_Guide"
 gh_edit_branch: "main"
-gh_edit_source: docs
+gh_edit_source: root
 gh_edit_view_mode: "tree"
 
 # Вспомогательные ссылки в шапке (опционально)
