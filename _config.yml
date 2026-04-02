@@ -4,8 +4,8 @@ description: "Документация для авторов игровых си
 theme: just-the-docs
 
 # URL репозитория — замени на свой
-# url: "https://your-username.github.io"
-# baseurl: "/your-repo-name"
+url: "https://Necrohrich.github.io"
+baseurl: "/RPAGS_Authoring_Guide"
 
 # Поиск по документации (встроен в тему)
 search_enabled: true
@@ -17,12 +17,12 @@ search:
 color_scheme: dark
 
 # Кнопка "Edit on GitHub" — замени на свой репо
-# gh_edit_link: true
-# gh_edit_link_text: "Редактировать страницу"
-# gh_edit_repository: "https://github.com/your-username/your-repo"
-# gh_edit_branch: "main"
-# gh_edit_source: docs
-# gh_edit_view_mode: "tree"
+gh_edit_link: true
+gh_edit_link_text: "Редактировать страницу"
+gh_edit_repository: "https://github.com/Necrohrich/RPAGS_Authoring_Guide"
+gh_edit_branch: "main"
+gh_edit_source: docs
+gh_edit_view_mode: "tree"
 
 # Вспомогательные ссылки в шапке (опционально)
 # aux_links:
